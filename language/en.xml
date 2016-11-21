@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="en">
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.legalNotice"><![CDATA[Legal Notice]]></item>
+		<item name="wcf.acp.option.category.legalNotice.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text"><![CDATA[Additional Information]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text.description"><![CDATA[You can enter additional information for your legal notice page here.]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text_enable_html"><![CDATA[Enable HTML code in additional information message]]></item>
+		<item name="wcf.acp.option.legal_notice_additional_text_enable_html.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_address"><![CDATA[Name and Address]]></item>
+		<item name="wcf.acp.option.legal_notice_address.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_email_address"><![CDATA[Email Address]]></item>
+		<item name="wcf.acp.option.legal_notice_email_address.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_fax"><![CDATA[Fax]]></item>
+		<item name="wcf.acp.option.legal_notice_fax.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_phone"><![CDATA[Phone]]></item>
+		<item name="wcf.acp.option.legal_notice_phone.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_register"><![CDATA[Register]]></item>
+		<item name="wcf.acp.option.legal_notice_register.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_representative"><![CDATA[Representatives]]></item>
+		<item name="wcf.acp.option.legal_notice_representative.description"><![CDATA[]]></item>
+		<item name="wcf.acp.option.legal_notice_vat_id"><![CDATA[VAT ID]]></item>
+		<item name="wcf.acp.option.legal_notice_vat_id.description"><![CDATA[]]></item>
+	</category>
+
+	<category name="wcf.footer.menu">
+		<item name="wcf.footer.menu.legalNotice"><![CDATA[Legal Notice]]></item>
+	</category>
+
+	<category name="wcf.legalNotice">
+		<item name="wcf.legalNotice.additionalText"><![CDATA[Additional Information]]></item>
+		<item name="wcf.legalNotice.address"><![CDATA[Name and Address]]></item>
+		<item name="wcf.legalNotice.description"><![CDATA[]]></item>
+		<item name="wcf.legalNotice.emailAddress"><![CDATA[Email Address]]></item>
+		<item name="wcf.legalNotice.fax"><![CDATA[Fax]]></item>
+		<item name="wcf.legalNotice.general"><![CDATA[General Information]]></item>
+		<item name="wcf.legalNotice.phone"><![CDATA[Phone]]></item>
+		<item name="wcf.legalNotice.register"><![CDATA[Register]]></item>
+		<item name="wcf.legalNotice.representative"><![CDATA[Representatives]]></item>
+		<item name="wcf.legalNotice.title"><![CDATA[Legal Notice]]></item>
+		<item name="wcf.legalNotice.vatID"><![CDATA[VAT ID]]></item>
+
+		<item name="wcf.legalNotice.pgp"><![CDATA[Public key (PGP)]]></item>
+		<item name="wcf.legalNotice.contactForm"><![CDATA[Contactform]]></item>
+		<item name="wcf.legalNotice.contactForm.text"><![CDATA[Go to contactform >]]></item>
+		<item name="wcf.legalNotice.googleAnalytics.legend"><![CDATA[Datenschutzerklärung für die Nutzung von Google Analytics]]></item>
+		<item name="wcf.legalNotice.googlePlus.legend"><![CDATA[Datenschutzerklärung für die Nutzung von Google +my]]></item>
+		<item name="wcf.legalNotice.facebookLike.legend"><![CDATA[Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button)]]></item>
+		<item name="wcf.legalNotice.twitter.legend"><![CDATA[Datenschutzerklärung für die Nutzung von Twitter]]></item>
+		<item name="wcf.legalNotice.odr.legend"><![CDATA[European Online Dispute Resolution Platform]]></item>
+		<item name="wcf.legalNotice.imageSource"><![CDATA[Image sources]]></item>
+		<item name="wcf.legalNotice.googleAnalytics.text"><![CDATA[Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt.
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.<br>
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: <a href="http://tools.google.com/dlpage/gaoptout?hl=de" class="externalLink">http://tools.google.com/dlpage/gaoptout?hl=de</a>.<br>
+<i>Quelle: <a href="http://www.google.com/intl/de/analytics/privacyoverview.html" class="externalLink">Google Analytics Datenschutzerklärung</a></i>]]></item>
+		<item name="wcf.legalNotice.googlePlus.text"><![CDATA[Erfassung und Weitergabe von Informationen:<br>
+Mithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen. über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet eingeblendet werden.<br>
+Google zeichnet Informationen über Ihre +1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil, das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.<br><br>
+Verwendung der erfassten Informationen:<br>
+Neben den oben erläuterten Verwendungszwecken werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutzbestimmungen genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa Publisher, Inserenten oder verbundene Websites.<br>
+<i>Quelle: <a href="http://www.google.com/intl/de/+/policy/+1button.html" class="externalLink">Datenschutzerklärung Google +1</a></i>]]></item>
+		<item name="wcf.legalNotice.facebookLike.text"><![CDATA[Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem "Like-Button" ("Gefällt mir") auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier: <a href="http://developers.facebook.com/docs/plugins/" class="externalLink">http://developers.facebook.com/docs/plugins/</a>.<br>
+Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook "Like-Button" anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von facebook unter <a href="http://de-de.facebook.com/policy.php" class="externalLink">http://de-de.facebook.com/policy.php</a><br>.
+Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.<br>
+<i>Quelle: <a href="http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html" class="externalLink">eRecht24 Datenschutzerklärung für Facebookg</a></i>]]></item>
+		<item name="wcf.legalNotice.twitter.text"><![CDATA[Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion "Re-Tweet" werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen.<br>
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter <a href="http://twitter.com/privacy" class="externalLink">http://twitter.com/privacy</a>.<br>
+Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter <a href="http://twitter.com/account/settings" class="externalLink">http://twitter.com/account/settings</a> ändern.<br>
+<i>Quelle: <a href="http://twitter.com/privacy" class="externalLink">Twitter Bedingungen</a></i>]]></item>
+		<item name="wcf.legalNotice.odr.text"><![CDATA[Die EU-Kommission stellt im Internet unter folgendem Link eine Plattform zur Online-Streitbeilegung bereit: <a href="http://ec.europa.eu/consumers/odr" class="externalLink">http://ec.europa.eu/consumers/odr</a><br>
+Diese Plattform dient als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten aus Online-Kauf- oder Dienstleistungsverträgen, an denen ein Verbraucher beteiligt ist.]]></item>
+	</category>
+
+	<category name="wcf.page">
+		<item name="wcf.page.com.woltlab.wcf.legalNotice.LegalNoticePage"><![CDATA[Legal Notice]]></item>
+	</category>
+</language>
