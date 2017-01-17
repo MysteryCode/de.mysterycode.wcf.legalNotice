@@ -115,7 +115,7 @@
 
 	{if LEGAL_NOTICE_IMAGE_SOURCE}
 		<fieldset>
-			<legend>{lang}wcf.legalNotice.imageSource</legend>
+			<legend>{lang}wcf.legalNotice.imageSource{/lang}</legend>
 
 			{@LEGAL_NOTICE_IMAGE_SOURCE|newlineToBreak}
 		</fieldset>
