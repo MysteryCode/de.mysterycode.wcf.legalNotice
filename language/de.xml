@@ -21,6 +21,15 @@
 		<item name="wcf.acp.option.legal_notice_representative.description"><![CDATA[Bei juristischen Personen ist es gesetzlich vorgeschrieben, dass alle vertretungsberechtigten Personen mit vollem Namen im Impressum genannt werden.]]></item>
 		<item name="wcf.acp.option.legal_notice_vat_id"><![CDATA[Umsatzsteuer-ID]]></item>
 		<item name="wcf.acp.option.legal_notice_vat_id.description"><![CDATA[Falls Sie über eine Umsatzsteuer-Identifikationsnummer verfügen, tragen Sie diese bitte hier ein.]]></item>
+
+		<item name="wcf.acp.option.legal_notice_email_address_pgp"><![CDATA[Öffentlicher PGP-Schlüssel]]></item>
+		<item name="wcf.acp.option.legal_notice_show_odr"><![CDATA[ODR-Hinweis]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_google_analytics"><![CDATA[Disclaimer Google Analytics]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_facebook_like"><![CDATA[Disclaimer Facebook Like]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_twitter"><![CDATA[Disclaimer Twitter]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_google_plus"><![CDATA[Disclaimer Google+]]></item>
+		<item name="wcf.acp.option.legal_notice_image_source"><![CDATA[Bildquellen]]></item>
+		<item name="wcf.acp.option.legal_notice_contact_form"><![CDATA[Kontaktformular]]></item>
 	</category>
 
 	<category name="wcf.footer.menu">

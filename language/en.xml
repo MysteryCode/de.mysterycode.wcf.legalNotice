@@ -21,6 +21,15 @@
 		<item name="wcf.acp.option.legal_notice_representative.description"><![CDATA[]]></item>
 		<item name="wcf.acp.option.legal_notice_vat_id"><![CDATA[VAT ID]]></item>
 		<item name="wcf.acp.option.legal_notice_vat_id.description"><![CDATA[]]></item>
+
+		<item name="wcf.acp.option.legal_notice_email_address_pgp"><![CDATA[Public PGP-key]]></item>
+		<item name="wcf.acp.option.legal_notice_show_odr"><![CDATA[ODR-Notice]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_google_analytics"><![CDATA[Disclaimer Google Analytics]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_facebook_like"><![CDATA[Disclaimer Facebook Like]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_twitter"><![CDATA[Disclaimer Twitter]]></item>
+		<item name="wcf.acp.option.legal_notice_disclaimer_google_plus"><![CDATA[Disclaimer Google+]]></item>
+		<item name="wcf.acp.option.legal_notice_image_source"><![CDATA[Imagesources]]></item>
+		<item name="wcf.acp.option.legal_notice_contact_form"><![CDATA[Contactform]]></item>
 	</category>
 
 	<category name="wcf.footer.menu">
