@@ -1,5 +1,6 @@
 <?php
 namespace wcf\page;
+use wcf\system\request\LinkHandler;
 use wcf\system\WCF;
 use wcf\util\StringUtil;
 
@@ -15,21 +16,24 @@ use wcf\util\StringUtil;
  */
 class LegalNoticePage extends AbstractPage {
 	const AVAILABLE_DURING_OFFLINE_MODE = true;
-
+	
 	/**
-	 * @see	\wcf\page\AbstractPage::$activeMenuItem
+	 * @inheritDoc
 	 */
-	public $activeMenuItem = 'wcf.footer.menu.legalNotice';
-
+	public function readParameters() {
+		parent::readParameters();
+		
+		$this->canonicalURL = LinkHandler::getInstance()->getLink('LegalNotice');
+	}
+	
 	/**
-	 * @see	\wcf\page\IPage::assignVariables()
+	 * @inheritDoc
 	 */
 	public function assignVariables() {
 		parent::assignVariables();
-
-		WCF::getTPL()->assign(array(
-			'encodedEmailAddress' => StringUtil::encodeAllChars(LEGAL_NOTICE_EMAIL_ADDRESS),
-			'allowSpidersToIndexThisPage' => true
-		));
+		
+		WCF::getTPL()->assign([
+			'encodedEmailAddress' => StringUtil::encodeAllChars(LEGAL_NOTICE_EMAIL_ADDRESS)
+		]);
 	}
 }
